@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains problems on theme or story you might like to present
   in photographs for the final review.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-a21-stories-without-words-photographing-the-first-year-fall-2006/db3eabd6df7c1d35fa5a073f9e8d284b_assn5.pdf
+file: /media/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/db3eabd6df7c1d35fa5a073f9e8d284b_assn5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn5.pdf
 uid: db3eabd6-df7c-1d35-fa5a-073f9e8d284b
