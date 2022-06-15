@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: Projects secton contains final projects of the class.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 0c89b370-6ac1-bf3e-136a-d52b1cc83d1a
 ---
@@ -32,7 +32,7 @@ Matthew Cohen ([WMV](/ans7870/4/4.A21/f06/projects/mattco/mattco.wmv))
 2005 Projects
 -------------
 
-Credit List ({{< resource_link ec192f2c-d7ca-7534-a24b-55c99c0fae7f "PDF" >}})
+Credit List ({{% resource_link ec192f2c-d7ca-7534-a24b-55c99c0fae7f "PDF" %}})
 
 Inessa Liskovich - [MIT Campus](/ans7870/4/4.A21/f05/projects/inessa/index.htm)
 
