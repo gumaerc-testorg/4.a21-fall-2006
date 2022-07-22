@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments section contains complete set of problem statements along
+  with their solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 838a2da9-27af-0be5-2f5e-dc7522c8f27f
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture - Introduction: 9/11 / Camera, Light ([PDF]({{< baseurl >}}/resources/assn0))
+Lecture - Introduction: 9/11 / Camera, Light ({{% resource_link 80de0a0d-3f93-5774-67af-c5fe9c9681a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Lecture - Introduction: 9/11 / Camera, Light ([PDF]({{< baseurl >}}/resources/as
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Image Viewing - Light Assignment ([PDF]({{< baseurl >}}/resources/assn1))
+Image Viewing - Light Assignment ({{% resource_link ca45ea0e-eff4-898b-f053-14820a2b6f55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Image Viewing - Light Assignment ([PDF]({{< baseurl >}}/resources/assn1))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Image Viewing - Detail Assignment / Web Design ([PDF]({{< baseurl >}}/resources/assn2))
+Image Viewing - Detail Assignment / Web Design ({{% resource_link 13846638-7cf6-4edd-0a75-f233485b8290 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Museum Visit - HMNH, Dinner in Harvard Square
 5
 {{< tdclose >}}
 {{< tdopen >}}
-In-class Work on Web Site Building ([PDF]({{< baseurl >}}/resources/assn3))
+In-class Work on Web Site Building ({{% resource_link 8f8cf207-8a30-0b13-5026-bb9d81a6966b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Review of Assignment 3 - Web Sites / Themes
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Optional Class Meeting Due to Midterm Exams ([PDF]({{< baseurl >}}/resources/assn4))
+Optional Class Meeting Due to Midterm Exams ({{% resource_link ffea61fc-4715-843d-3ba0-f522f95700f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +110,7 @@ Walking Tour of Campus Art and Architecture
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Working Session in Lab - Individual Review ([PDF]({{< baseurl >}}/resources/assn5))
+Working Session in Lab - Individual Review ({{% resource_link db3eabd6-df7c-1d35-fa5a-073f9e8d284b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
