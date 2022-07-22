@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_mit.jpg
 uid: f0123f31-5dca-8465-b530-9ac06ee6f54c
 ---
 The MIT campus, which was the subject of many of the student essays. (Image by Keith McCluskey.)
-

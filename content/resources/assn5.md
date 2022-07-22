@@ -6,6 +6,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn5.pdf
 uid: db3eabd6-df7c-1d35-fa5a-073f9e8d284b
 ---
 This resource contains problems on theme or story you might like to present in photographs for the final review.
-

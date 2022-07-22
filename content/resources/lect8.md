@@ -5,6 +5,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect8.pdf
 uid: 97595fa9-3fd7-bd41-b1b7-eb8df89d9a93
 ---
 This resource contains a discussion of  topics for the final project.
-

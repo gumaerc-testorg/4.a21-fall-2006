@@ -5,6 +5,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: ca45ea0e-eff4-898b-f053-14820a2b6f55
 ---
 This resource contains problems on good light and Picasa.
-

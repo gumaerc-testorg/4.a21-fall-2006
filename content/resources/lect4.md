@@ -6,6 +6,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect4.pdf
 uid: e0b28564-cf9d-0c8a-6e54-97b4528f6ebf
 ---
 This resource contains information about Harvard museum of natural history and dinner at border cafe.
-

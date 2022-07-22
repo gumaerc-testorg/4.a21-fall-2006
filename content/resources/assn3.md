@@ -7,6 +7,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn3.pdf
 uid: 8f8cf207-8a30-0b13-5026-bb9d81a6966b
 ---
 This resource contains problems on build yourself a website, laying out site, building HTML pages using notepad and macromedia dreamweaver and building image galleries using adobe photoshop CS2.
-

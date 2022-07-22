@@ -6,6 +6,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect3.pdf
 uid: 09692413-aaf7-2112-5946-d3274cf3b461
 ---
 This resource contains information about photoshop, picasa and auto image gallery.
-

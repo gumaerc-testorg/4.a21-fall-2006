@@ -5,6 +5,7 @@ file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect1.pdf
 uid: ec16b25b-7713-abac-9591-27ecbece1cdd
 ---
 This resource contains information about camera, light and digital film.
-
