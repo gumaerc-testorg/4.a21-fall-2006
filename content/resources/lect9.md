@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the tour of campus art and tour
   schedule.
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/140772e5be4169759347d1d181b9eef4_lect9.pdf
+file_size: 9573
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
