@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on poetics.
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/ffea61fc4715843d3ba0f522f95700f2_assn4.pdf
+file_size: 8658
 file_type: application/pdf
 learning_resource_types:
 - Assignments
