@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems to judge human behavior and to make some
   good friends from the surroundings.
-file: /ol-ocw-studio-app/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/138466387cf64edd0a75f233485b8290_assn2.pdf
+file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/138466387cf64edd0a75f233485b8290_assn2.pdf
 file_size: 8825
 file_type: application/pdf
 learning_resource_types:
