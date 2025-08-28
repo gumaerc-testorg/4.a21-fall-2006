@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Galleria and review of images.
-file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/8d1a0d3c45c4cc9b852d1dcc0abc70b3_lect2.pdf
+file: /ol-ocw-studio-app/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/8d1a0d3c45c4cc9b852d1dcc0abc70b3_lect2.pdf
 file_size: 9528
 file_type: application/pdf
 learning_resource_types:
