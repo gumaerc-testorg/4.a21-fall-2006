@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a discussion of  topics for the final project.
-file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/97595fa93fd7bd41b1b7eb8df89d9a93_lect8.pdf
+file: /ol-ocw-studio-app/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/97595fa93fd7bd41b1b7eb8df89d9a93_lect8.pdf
 file_size: 9154
 file_type: application/pdf
 learning_resource_types:
